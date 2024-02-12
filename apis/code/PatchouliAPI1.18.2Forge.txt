@@ -1,0 +1,8 @@
+repositories {
+    maven { url 'https://maven.blamejared.com' }
+}
+
+dependencies {
+    compileOnly fg.deobf("vazkii.patchouli:Patchouli:1.18.2-71:api")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.18.2-71")
+}

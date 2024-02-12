@@ -1,4 +1,8 @@
 PatchouliAPI
-1
+3
 1.20.1
+Forge
+1.19.2
+Forge
+1.18.2
 Forge
