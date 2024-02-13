@@ -1,11 +1,9 @@
 repositories {
-	maven { url 'https://www.cursemaven.com'
-        	content {
-        		includeGroup "curse.maven"
-        }
-    }
+	maven { url "https://maven.ryanliptak.com/" }
 }
 
 dependencies {
-	implementation fg.deobf("curse.maven:appleskin-248787:3872808")
+	compileOnly fg.deobf("squeek.appleskin:appleskin-forge:mc1.19-2.4.2:api")
+	runtimeOnly fg.deobf("squeek.appleskin:appleskin-forge:mc1.19-2.4.2")
+	// Plugin Note: AppleSkin versions can be found here: https://www.curseforge.com/minecraft/mc-mods/appleskin/files/all?page=1&pageSize=20&gameVersionTypeId=1
 }

@@ -1,14 +1,15 @@
 repositories {
     maven { url "https://maven.shedaniel.me" }
-	maven { url 'https://www.cursemaven.com'
-        	content {
-        		includeGroup "curse.maven"
-        }
-    }
+	maven { url "https://maven.architectury.dev/" }
 }
 
 dependencies {
-    implementation fg.deobf("me.shedaniel:RoughlyEnoughItems-forge:12.0.684")
+    api fg.deobf("me.shedaniel:RoughlyEnoughItems-forge:12.0.684")
+	// Plugin Note: REI versions can be found here: https://linkie.shedaniel.dev/dependencies?loader=forge&version=1.20.1#dep-2
+
 	api fg.deobf("me.shedaniel.cloth:cloth-config-forge:11.1.118")
-	implementation fg.deobf("curse.maven:architectury-api-419699:5084452")
+	// Plugin Note: Cloth Config versions can be found here: https://linkie.shedaniel.dev/dependencies?loader=forge&version=1.20.1#dep-2
+
+	api fg.deobf("dev.architectury:architectury-forge:9.1.13")
+	// Plugin Note: Architectury API versions can be found here: https://linkie.shedaniel.dev/dependencies?loader=forge&version=1.20.1#dep-1
 }
