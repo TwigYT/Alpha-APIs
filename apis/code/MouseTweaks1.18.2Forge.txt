@@ -1,0 +1,11 @@
+repositories {
+    maven { url 'https://www.cursemaven.com'
+        content {
+            includeGroup "curse.maven"
+        }
+    }
+}
+
+dependencies {
+    implementation fg.deobf("curse.maven:mouse-tweaks-60089:3578801")
+}

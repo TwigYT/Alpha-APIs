@@ -1,3 +1,4 @@
 PatchouliAPI
 REI
 AppleSkin
+MouseTweaks
