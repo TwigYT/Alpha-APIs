@@ -1,0 +1,7 @@
+repositories {
+	maven { url "https://maven.ryanliptak.com/" }
+}
+
+dependencies {
+	compileOnly fg.deobf("squeek.appleskin:appleskin-forge:mc1.20.1-2.5.1:api")
+}
