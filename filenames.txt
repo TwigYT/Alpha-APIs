@@ -2,3 +2,4 @@ PatchouliAPI
 REI
 AppleSkin
 MouseTweaks
+Jade
