@@ -1,8 +1,0 @@
-repositories {
-	maven { url "https://maven.ryanliptak.com/" }
-}
-
-dependencies {
-	compileOnly fg.deobf("squeek.appleskin:appleskin-forge:mc1.19-2.4.2:api")
-	// Plugin Note: AppleSkin versions can be found here: https://www.curseforge.com/minecraft/mc-mods/appleskin/files/all?page=1&pageSize=20&gameVersionTypeId=1
-}

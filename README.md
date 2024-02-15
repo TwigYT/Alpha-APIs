@@ -2,6 +2,20 @@
 
 Alpha APIs is an mcreator plugin that adds lots of APIs to mcreator!
 
+# WARNING
+
+DO NOT use this plugin with other plugins that add lots of APIs like LYIVX’s API’s! They will conflict and possibly break!
+
+## APIs/Mods
+
+AppleSkin [(Forge)](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+
+* 1.20.1
+* 1.19.4
+* 1.19.2
+
+
+
 ## Installing
 
 Go to the [plugin page]() on mcreator.com and download the version for the mcreator version you want. When downloading, make sure you know where you are downloading the zip file.

@@ -5,11 +5,14 @@ repositories {
 
 dependencies {
     implementation  fg.deobf("me.shedaniel:RoughlyEnoughItems-forge:12.0.684")
-	// Plugin Note: REI versions can be found here: https://linkie.shedaniel.dev/dependencies?loader=forge&version=1.20.1#dep-2
+	// Plugin Note: REI versions can be found here: 
+
+	implementation  fg.deobf("me.shedaniel:REIPluginCompatibilities-forge-annotations:12.0.93")
+	// Plugin Note: REI Plugin Compatibilities versions can be found here:
 
 	implementation  fg.deobf("me.shedaniel.cloth:cloth-config-forge:11.1.118")
-	// Plugin Note: Cloth Config versions can be found here: https://linkie.shedaniel.dev/dependencies?loader=forge&version=1.20.1#dep-2
+	// Plugin Note: Cloth Config versions can be found here:
 
 	implementation  fg.deobf("dev.architectury:architectury-forge:9.1.13")
-	// Plugin Note: Architectury API versions can be found here: https://linkie.shedaniel.dev/dependencies?loader=forge&version=1.20.1#dep-1
+	// Plugin Note: Architectury API versions can be found here:
 }
