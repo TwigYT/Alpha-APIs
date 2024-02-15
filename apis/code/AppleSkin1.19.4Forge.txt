@@ -4,6 +4,5 @@ repositories {
 
 dependencies {
 	compileOnly fg.deobf("squeek.appleskin:appleskin-forge:mc1.19.4-2.5.1:api")
-	runtimeOnly fg.deobf("squeek.appleskin:appleskin-forge:mc1.19.4-2.5.1")
 	// Plugin Note: AppleSkin versions can be found here: https://www.curseforge.com/minecraft/mc-mods/appleskin/files/all?page=1&pageSize=20&gameVersionTypeId=1
 }

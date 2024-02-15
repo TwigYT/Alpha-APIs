@@ -3,7 +3,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly fg.deobf("vazkii.patchouli:Patchouli:1.18.2-71:api")
-    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.18.2-71")
+    compileOnly fg.deobf("vazkii.patchouli:Patchouli:1.18.2-71-FORGE:api")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.18.2-71-FORGE")
 	// Plugin Note: PatchouliAPI versions can be found here: https://www.curseforge.com/minecraft/mc-mods/patchouli/files/all?page=1&pageSize=20&gameVersionTypeId=1
 }
