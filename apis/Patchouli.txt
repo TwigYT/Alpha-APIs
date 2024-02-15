@@ -1,4 +1,4 @@
-PatchouliAPI
+Patchouli
 4
 1.20.1
 Forge

@@ -8,13 +8,38 @@ DO NOT use this plugin with other plugins that add lots of APIs like LYIVX’s A
 
 ## APIs/Mods
 
-AppleSkin [(Forge)](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 
-* 1.20.1
-* 1.19.4
-* 1.19.2
+* 1.20.1 Forge
+* 1.19.4 Forge
+* 1.18.2 Forge
 
+[Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 
+* 1.20.1 Forge
+* 1.19.4 Forge
+* 1.19.2 Forge
+* 1.18.2 Forge
+
+[MouseTweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+
+* 1.20.1 Forge
+* 1.19.4 Forge
+* 1.19.2 Forge
+* 1.18.2 Forge
+
+[Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+
+* 1.20.1 Forge
+* 1.19.4 Forge
+* 1.19.2 Forge
+* 1.18.2 Forge
+
+[REI](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+
+* 1.20.1 Forge
+* 1.19.4 Forge
+* 1.19.2 Forge
 
 ## Installing
 
