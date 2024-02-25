@@ -4,3 +4,6 @@ AppleSkin
 MouseTweaks
 Jade
 MoonlightLib
+Bookshelf
+CraftTweaker
+Pehkui
