@@ -1,8 +1,0 @@
-repositories {
-    maven { url 'https://maven.blamejared.com' }
-}
-
-dependencies {
-    compileOnly "net.darkhax.bookshelf:Bookshelf-Forge-1.20.1:20.1.9"
-	// Plugin Note: Bookshelf versions can be found here: https://maven.blamejared.com/net/darkhax/bookshelf/
-}

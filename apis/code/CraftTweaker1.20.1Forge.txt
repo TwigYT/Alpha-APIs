@@ -1,8 +1,0 @@
-repositories {
-    maven { url 'https://maven.blamejared.com' }
-}
-
-dependencies {
-    compileOnly fg.deobf('com.blamejared.crafttweaker:CraftTweaker-forge-1.20.1:14.0.34')
-	// Plugin Note: CraftTweaker versions can be found here: https://maven.blamejared.com/com/blamejared/crafttweaker/
-}
