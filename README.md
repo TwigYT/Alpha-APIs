@@ -16,7 +16,7 @@ Alpha APIs is an MCreator plugin that adds lots of APIs to MCreator!
 * 1.19.4 Forge
 * 1.18.2 Forge
 
-[Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+[Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [Wiki](https://jademc.readthedocs.io/en/latest/)
 
 * 1.20.1 Forge
 * 1.19.4 Forge
@@ -30,39 +30,39 @@ Alpha APIs is an MCreator plugin that adds lots of APIs to MCreator!
 * 1.19.2 Forge
 * 1.18.2 Forge
 
-[Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+[Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) [Wiki](https://vazkiimods.github.io/Patchouli/)
 
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
 * 1.18.2 Forge
 
-[REI](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+[REI](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) [Docs](https://chicken-fetch-ve7.craft.me/qj8mHyTVd7qkOZ)
 
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
 
-[CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker):
+[CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) [Docs](https://docs.blamejared.com/1.20.1)
 
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
 * 1.18.2 Forge
 
-[Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf):
+[Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) [Wiki](https://github.com/Darkhax-Minecraft/Bookshelf/wiki)
 
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
 
-[Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui):
+[Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui) [Docs](https://www.curseforge.com/minecraft/mc-mods/pehkui)
 
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
 
-[MoonlightLib](https://www.curseforge.com/minecraft/mc-mods/selene):
+[MoonlightLib](https://www.curseforge.com/minecraft/mc-mods/selene) [Examples](https://github.com/MehVahdJukaar/Moonlight/tree/1.20/common/src/example/java)
 
 * 1.20.1 Forge
 * 1.19.4 Forge
