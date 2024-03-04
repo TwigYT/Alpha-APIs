@@ -1,10 +1,192 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+em {
+    font-weight: bold;
+}
+
+table {
+    border-spacing: 4px;
+}
+
+td {
+    border: thin solid black;
+    padding: 10px 10px 10px 60px;
+    vertical-align: text-top;
+    font-weight: bold;
+}
+
 .center {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
+    border: 10px double black;
+    margin: 0px 15em;
+    padding: 2em;
 }
 
-em {
-    font-weight: bold;
+.forge {
+    list-style-image: url(../images/forgelogo.png);
+    list-style-position: inherit;
+}
+
+.WARNING {
+    background-color: hsla(0, 86%, 45%, 0.5);
+}
+
+td#AppleSkin {
+    background-image: url(../images/apis/AppleSkin.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    color: hsl(356, 76%, 35%);
+    background-color: hsl(51, 36%, 78%);
+}
+
+td#AppleSkin a:link {
+    color: hsl(356, 76%, 35%);
+}
+
+td#AppleSkin a:visited {
+    color: hsl(356, 76%, 35%);
+}
+
+td#Jade {
+    background-image: url(../images/apis/Jade.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: 50px;
+    background-position-x: 5px;
+    background-color: hsl(40, 9%, 20%);
+    color: hsl(148, 19%, 85%);
+}
+
+td#Jade a:link {
+    color: hsl(149, 18%, 69%);
+}
+
+td#Jade a:visited {
+    color: hsl(149, 18%, 69%);
+}
+
+td#MouseTweaks {
+    background-image: url(../images/apis/MouseTweaks.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: 55px;
+    background-position-x: 5px;
+    color: hsl(0, 0%, 18%);
+    background-color: hsl(0, 0%, 78%);
+}
+
+td#MouseTweaks a:link {
+    color: hsl(0, 0%, 18%);
+}
+
+td#MouseTweaks a:visited {
+    color: hsl(0, 0%, 18%);
+}
+
+td#Patchouli {
+    background-image: url(../images/apis/Patchouli.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: 55px;
+    background-position-x: 5px;
+    color: hsl(296, 33%, 17%);
+    background-color: hsl(0, 0%, 87%);
+}
+
+td#Patchouli a:link {
+    color: hsl(296, 33%, 17%);
+}
+
+td#Patchouli a:visited {
+    color: hsl(296, 33%, 17%);
+}
+
+td#REI {
+    background-image: url(../images/apis/REI.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: 55px;
+    background-position-x: 5px;
+    color: hsl(0, 0%, 85%);
+    background-color: hsl(0, 0%, 11%);
+}
+
+td#REI a:link {
+    color: hsl(0, 0%, 85%);
+}
+
+td#REI a:visited {
+    color: hsl(0, 0%, 85%);
+}
+
+td#CraftTweaker {
+    background-image: url(../images/apis/CraftTweaker.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: 55px;
+    background-position-x: 5px;
+}
+
+td#CraftTweaker a:link {
+    color: hsl(0, 0%, 0%);
+}
+
+td#CraftTweaker a:visited {
+    color: hsl(0, 0%, 0%);
+}
+
+td#Bookshelf {
+    background-image: url(../images/apis/Bookshelf.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: 55px;
+    background-position-x: 5px;
+}
+
+td#Bookshelf a:link {
+    color: hsl(0, 0%, 0%);
+}
+
+td#Bookshelf a:visited {
+    color: hsl(0, 0%, 0%);
+}
+
+td#Pehkui {
+    background-image: url(../images/apis/Pehkui.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: 55px;
+    background-position-x: 5px;
+}
+
+td#Pehkui a:link {
+    color: hsl(0, 0%, 0%);
+}
+
+td#Pehkui a:visited {
+    color: hsl(0, 0%, 0%);
+}
+
+td#MoonlightLib {
+    background-image: url(../images/apis/MoonlightLib.png);
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: 55px;
+    background-position-x: 5px;
+    background-color: hsl(239, 79%, 11%);
+    color: hsl(197, 95%, 84%);
+}
+
+td#MoonlightLib a:link {
+    color: hsl(197, 95%, 84%);
+}
+
+td#MoonlightLib a:visited {
+    color: hsl(197, 95%, 84%);
 }
