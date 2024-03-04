@@ -37,6 +37,20 @@ td {
     background-color: hsla(0, 86%, 45%, 0.5);
 }
 
+#BATA {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    flex-flow: nowrap;
+    justify-content: center;
+    background-color: orange;
+    border: 3px solid black;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
 td#AppleSkin {
     background-image: url(../images/apis/AppleSkin.png);
     background-repeat: no-repeat;
