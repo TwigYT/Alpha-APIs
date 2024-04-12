@@ -1,0 +1,10 @@
+repositories {
+	maven {
+		url = "https://jitpack.io"
+	}
+}
+
+dependencies {
+	implementation fg.deobf("com.github.Virtuoel:Pehkui:3.8.0-1.20.4-neoforge")
+	// Plugin Note: Pehkui versions can be found here: https://github.com/Virtuoel/Pehkui/tags
+}

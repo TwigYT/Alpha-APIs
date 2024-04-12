@@ -1,0 +1,8 @@
+repositories {
+    maven { url 'https://maven.blamejared.com' }
+}
+
+dependencies {
+    compileOnly "net.darkhax.bookshelf:Bookshelf-NeoForge-1.20.4:23.0.8"
+	// Plugin Note: Bookshelf versions can be found here: https://maven.blamejared.com/net/darkhax/bookshelf/
+}

@@ -1,0 +1,10 @@
+repositories {
+    maven {
+        url "https://cursemaven.com"
+    }
+}
+
+dependencies {
+	implementation fb.deobf("curse.maven:framework-549225:5166354")
+	// Plugin Note: Framework versions can be found here: https://www.curseforge.com/minecraft/mc-mods/framework/files/all?page=1&pageSize=20&gameVersionTypeId=1
+}

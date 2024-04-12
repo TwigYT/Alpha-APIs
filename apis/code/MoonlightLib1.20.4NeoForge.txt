@@ -1,0 +1,12 @@
+repositories {
+    maven { url 'https://www.cursemaven.com'
+        content {
+            includeGroup "curse.maven"
+        }
+    }
+}
+
+dependencies {
+    implementation fg.deobf("curse.maven:selene-499980:5254462")
+	// Plugin Note: MoonlightLib versions can be found here: https://www.curseforge.com/minecraft/mc-mods/selene/files/all?page=1&pageSize=20&gameVersionTypeId=6
+}

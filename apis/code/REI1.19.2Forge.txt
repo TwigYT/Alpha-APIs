@@ -5,14 +5,14 @@ repositories {
 
 dependencies {
     implementation  fg.deobf("me.shedaniel:RoughlyEnoughItems-forge:9.1.682")
-	// Plugin Note: REI versions can be found here:
+	// Plugin Note: REI versions can be found here: https://maven.shedaniel.me/me/shedaniel/RoughlyEnoughItems-forge/
 
 	implementation  fg.deobf("me.shedaniel:REIPluginCompatibilities-forge-annotations:9.0.90")
-	// Plugin Note: REI Plugin Compatibilities versions can be found here:
+	// Plugin Note: REI Plugin Compatibilities versions can be found here: https://maven.shedaniel.me/me/shedaniel/REIPluginCompatibilities-forge-annotations/
 
 	implementation  fg.deobf("me.shedaniel.cloth:cloth-config-forge:8.3.115")
-	// Plugin Note: Cloth Config versions can be found here:
+	// Plugin Note: Cloth Config versions can be found here: https://maven.shedaniel.me/me/shedaniel/cloth/cloth-config-forge/
 
 	implementation  fg.deobf("dev.architectury:architectury-forge:6.5.90")
-	// Plugin Note: Architectury API versions can be found here:
+	// Plugin Note: Architectury API versions can be found here: https://maven.architectury.dev/dev/architectury/architectury-forge/
 }
