@@ -1,3 +1,4 @@
+
 repositories {
     maven { url 'https://www.cursemaven.com'
         content {
@@ -7,6 +8,6 @@ repositories {
 }
 
 dependencies {
-    implementation fg.deobf("curse.maven:mouse-tweaks-60089:5230342")
+    implementation "curse.maven:mouse-tweaks-60089:5230342"
 	// Plugin Note: MouseTweaks versions can be found here: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/all?page=1&pageSize=20&gameVersionTypeId=6
 }

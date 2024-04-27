@@ -1,3 +1,4 @@
+
 repositories {
     maven { url 'https://maven.blamejared.com' }
 }
@@ -6,4 +7,4 @@ dependencies {
     compileOnly fg.deobf("vazkii.patchouli:Patchouli:1.20.4-85-NEOFORGE:api")
     runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.20.4-85-NEOFORGE")
 	// Plugin Note: Patchouli versions can be found here: https://maven.blamejared.com/vazkii/patchouli/Patchouli/
-}
+}s

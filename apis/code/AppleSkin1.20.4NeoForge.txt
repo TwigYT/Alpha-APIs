@@ -3,6 +3,6 @@ repositories {
 }
 
 dependencies {
-	compileOnly fg.deobf("squeek.appleskin:appleskin-neoforge:mc1.20.4-2.5.1:api")
+	compileOnly "squeek.appleskin:appleskin-neoforge:mc1.20.4-2.5.1:api"
 	// Plugin Note: AppleSkin versions can be found here: https://maven.ryanliptak.com/squeek/appleskin/appleskin-neoforge/
 }

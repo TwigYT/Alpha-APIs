@@ -1,6 +1,6 @@
 Alpha APIs
 alpha_apis
-1.0.0
+1.2.0
 TwigYT
 A plugin that adds lots of APIs to MCreator!
 Made with MCreator plugin builder by NerdyPuzzle
