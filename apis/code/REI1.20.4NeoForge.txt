@@ -1,0 +1,15 @@
+repositories {
+    maven { url "https://maven.shedaniel.me" }
+	maven { url "https://maven.architectury.dev/" }
+}
+
+dependencies {
+    implementation  "me.shedaniel:RoughlyEnoughItems-neoforge:14.0.692"
+	// Plugin Note: REI versions can be found here: https://maven.shedaniel.me/me/shedaniel/RoughlyEnoughItems-neoforge/
+
+	implementation  "me.shedaniel.cloth:cloth-config-neoforge:13.0.121"
+	// Plugin Note: Cloth Config versions can be found here: https://maven.shedaniel.me/me/shedaniel/cloth/cloth-config-neoforge/
+
+	implementation  "dev.architectury:architectury-neoforge:11.1.13"
+	// Plugin Note: Architectury API versions can be found here: https://maven.architectury.dev/dev/architectury/architectury-neoforge/
+}

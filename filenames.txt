@@ -6,4 +6,5 @@ MoonlightLib
 Bookshelf
 CraftTweaker
 Pehkui
+REI
 Framework
