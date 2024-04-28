@@ -7,6 +7,6 @@ repositories {
 }
 
 dependencies {
-    implementation fg.deobf("curse.maven:jade-324717:5109393")
+    implementation "curse.maven:jade-324717:5109393"
 	// Plugin Note: Jade versions can be found here: https://www.curseforge.com/minecraft/mc-mods/jade/files/all?page=1&pageSize=20&gameVersionTypeId=6
 }

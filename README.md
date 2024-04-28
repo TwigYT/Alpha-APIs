@@ -12,12 +12,14 @@ Alpha APIs is an MCreator plugin that adds lots of APIs to MCreator!
 
 [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 
+* 1.20.4 NeoForge
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.18.2 Forge
 
 [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [[Wiki](https://jademc.readthedocs.io/en/latest/)]
 
+* 1.20.4 NeoForge
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
@@ -25,6 +27,7 @@ Alpha APIs is an MCreator plugin that adds lots of APIs to MCreator!
 
 [MouseTweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 
+* 1.20.4 NeoForge
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
@@ -32,6 +35,7 @@ Alpha APIs is an MCreator plugin that adds lots of APIs to MCreator!
 
 [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) [[Wiki](https://vazkiimods.github.io/Patchouli/)]
 
+* 1.20.4 NeoForge
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
@@ -52,12 +56,14 @@ Alpha APIs is an MCreator plugin that adds lots of APIs to MCreator!
 
 [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) [[Wiki](https://github.com/Darkhax-Minecraft/Bookshelf/wiki)]
 
+* 1.20.4 NeoForge
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge
 
 [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui) [[Docs](https://www.curseforge.com/minecraft/mc-mods/pehkui)]
 
+* 1.20.4 NeoForge
 * 1.20.1 Forge
 * 1.19.4 Forge
 * 1.19.2 Forge

@@ -1,8 +1,0 @@
-repositories {
-    maven { url "https://maven.blamejared.com" }
-}
-
-dependencies {
-    compileOnly "com.blamejared.crafttweaker:CraftTweaker-neoforge-1.20.4:17.0.9"
-	// Plugin Note: CraftTweaker versions can be found here: https://maven.blamejared.com/com/blamejared/crafttweaker/
-}
